@@ -1,0 +1,42 @@
+.container {
+	background-color: pink;
+	width:400px;
+	height:400px;
+	padding: 10px;
+}
+.square {
+	width:200px;
+	height:200px;
+	display: inline-block;
+	padding:10px;
+	border:1px solid black;
+	box-sizing: border-box;
+
+}
+.One {
+	background-color: red;
+}
+.Two {
+	background-color: blue;
+}
+.Three {
+	background-color: green;
+}
+.Four {
+	background-color: yellow;
+}
+.container1 {
+	border:1px solid green;
+	width:500px;
+	overflow: hidden;
+}
+.child1 {
+	width: 100px;
+	height: 100px;
+	background: red;
+	float: left;
+
+}
+.child2 {
+	float:right; 
+}

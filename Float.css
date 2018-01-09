@@ -1,0 +1,11 @@
+.red-box {
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	float:right;
+	/*padding-left: 10px; */
+}
+.container {
+	height:400px;
+	width:400px;
+}

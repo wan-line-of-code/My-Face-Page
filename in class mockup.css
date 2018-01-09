@@ -1,0 +1,67 @@
+.wrapper {
+	border: 1px solid red;
+	width: 800px;
+	height: 800px;
+	
+}
+.title {
+
+}
+.top-section img {
+	float: left;
+	height:50px;
+	width: 50px;
+
+}
+.middle-section {
+	border:1px solid blue;
+	height:60%;
+	border-radius: 15px;
+	background: rgb(239,239,239);
+	margin:20px;
+	box-shadow: 1px 1px 4px 4px #CCCCCC;
+	position: relative;
+}
+.info {
+	border: 1px solid green;
+	display:inline-block;
+	box-sizing:border-box;
+	padding: 5px;
+	vertical-align: top;
+	margin-bottom: 20px;
+	position: relative;
+}
+.info1 {
+	width: 30%;
+	padding:5px;
+	margin-right: 25px;
+	float: left;
+	position: absolute;
+	left: 10px;
+	top: 15px;
+}
+.info2 {
+	width: 60%;
+	float: right;
+	position: absolute;
+	right:10px;
+	top: 15px;
+}
+.info td {
+	border-bottom: 1px solid grey;
+}
+button {
+	width:300px;
+	margin:200px auto 20px auto;
+	display:block;
+	clear: both;
+	background: linear-gradient(to bottom,rgb(250,149,67),rgb(242,64,27));
+	color: white;
+	font-size: 35px;
+
+}
+.bottom-section {
+	border: 1px solid red;
+	margin-left: 20px;
+	margin-right: 20px;
+}
