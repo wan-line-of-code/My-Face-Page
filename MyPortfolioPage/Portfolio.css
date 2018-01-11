@@ -53,18 +53,21 @@ header li {
 	font-size: 30px;
 }
 aside {
-	border:orange;
+	border:1px solid orange;
 	height:230px;
 	width: 200px;
 	margin: 10px;
+	float:left;
 }
 
 main {
 	border: 1px solid blue;
+	clear:both;
 }
 .status {
 	width:740px;
 	height:200px;
-	border:green;
+	border:1px solid green;
+	float:right;
 
 }
